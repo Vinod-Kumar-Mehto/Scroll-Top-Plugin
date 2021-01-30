@@ -1,0 +1,25 @@
+.scroll{
+    width: 50px;
+    height: 35px;
+    background-color: rgb(61, 133, 139);
+    text-align: center;
+    border-radius: 30%;
+    position: absolute;
+    transition: all 0.7s;
+    cursor: pointer;
+    display: none;
+
+    
+}
+
+span{
+    font-size: 30px;
+
+    
+}
+
+.onscroll{
+        display: block;
+    
+    
+}
